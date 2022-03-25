@@ -29,7 +29,10 @@
 ![Model 1 Layout)](https://github.com/gmongaras/Tensor-Hypercontraction-Poster-Info/blob/main/Poster/Chem%20Research%20Model%201.png)
 
 ### Model 1 Network Design
-![Model 1 Layout)](https://github.com/gmongaras/Tensor-Hypercontraction-Poster-Info/blob/main/Poster/Chem%20Research%20Model%201%20Design%20(2).png)
+![Model 1 Network Design)](https://github.com/gmongaras/Tensor-Hypercontraction-Poster-Info/blob/main/Poster/Chem%20Research%20Model%201%20Design.png)
+
+### Model 1 Loss Plot
+![Model 1 Loss Plot)](https://github.com/gmongaras/Tensor-Hypercontraction-Poster-Info/blob/main/Poster/trainPlot.png)
 
 ### Model 2 Layout
-![Model 1 Layout)](https://github.com/gmongaras/Tensor-Hypercontraction-Poster-Info/blob/main/Poster/Chem%20Research%20Model%202.png)
+![Model 2 Layout)](https://github.com/gmongaras/Tensor-Hypercontraction-Poster-Info/blob/main/Poster/Chem%20Research%20Model%202.png)
